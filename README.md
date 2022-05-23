@@ -4,3 +4,4 @@
 3) House-Price-Prediction: Model used- XGBoost Regressor
 4) Fake-news-prediction: Model used- Logistic Regression
                          Dataset link- https://www.kaggle.com/c/fake-news/data?select=train.csv
+5) Loan-status-prediction: Model used- Support Vector Model(SVM)
