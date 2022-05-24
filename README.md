@@ -6,3 +6,4 @@
                          Dataset link- https://www.kaggle.com/c/fake-news/data?select=train.csv
 5) Loan-status-prediction: Model used- Support Vector Model(SVM)
 6) Wine-quality-prediction: Model used- Random Forest Model
+7) Car-price-prediction: Model used- Linear & Lasso Regression
