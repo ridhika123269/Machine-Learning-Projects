@@ -8,3 +8,4 @@
 6) Wine-quality-prediction: Model used- Random Forest Classifier
 7) Car-price-prediction: Model used- Linear & Lasso Regression
 8) Gold-price-prediction: Model used- Random Forest Regressor
+9) Heart-disease-prediction: Model used- Logistic Regression
