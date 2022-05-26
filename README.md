@@ -9,3 +9,4 @@
 7) Car-price-prediction: Model used- Linear & Lasso Regression
 8) Gold-price-prediction: Model used- Random Forest Regressor
 9) Heart-disease-prediction: Model used- Logistic Regression
+10) Medical-insurance-cost-prediction: Model used- Linear Regression
