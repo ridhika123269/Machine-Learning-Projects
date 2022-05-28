@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 1) Rock-vs-Mine-Prediction: Model used- Logistic Regression
-2) Diabetes-Prediction: Model used- Support Vector Machines(SVM)
+2) Diabetes-Prediction: Model used- Support Vector Machine Classifier
 3) House-Price-Prediction: Model used- XGBoost Regressor
 4) Fake-news-prediction: Model used- Logistic Regression
                          Dataset link- https://www.kaggle.com/c/fake-news/data?select=train.csv
@@ -12,3 +12,4 @@
 10) Medical-insurance-cost-prediction: Model used- Linear Regression
 11) Big-mart-sales-prediction: Model used- XGBoost Regressor
 12) Customer-Segregation-using-KMeans-Clustering: Model used- KMeans Clustering
+13) Parkinsons-Disease-Detection-using-ML: Model used- Support Vector Machine Classifier
