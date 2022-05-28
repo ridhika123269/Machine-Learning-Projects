@@ -13,3 +13,4 @@
 11) Big-mart-sales-prediction: Model used- XGBoost Regressor
 12) Customer-Segregation-using-KMeans-Clustering: Model used- KMeans Clustering
 13) Parkinsons-Disease-Detection-using-ML: Model used- Support Vector Machine Classifier
+14) Titanic-Survival-Prediction-using-ML: Model used- Logistic Regression
