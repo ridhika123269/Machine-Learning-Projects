@@ -15,3 +15,4 @@
 13) Parkinsons-Disease-Detection-using-ML: Model used- Support Vector Machine Classifier
 14) Titanic-Survival-Prediction-using-ML: Model used- Logistic Regression
 15) Calories-Burnt-using-ML: Model used- XGBoost Regressor
+16) Spam-Mail-Prediction-using-ML: Model used- Logistic Regression
